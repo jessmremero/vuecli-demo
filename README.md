@@ -1,3 +1,4 @@
+用vue-cli搭建的架子，然后用到了vue-router、组件嵌套传值、组件内data、conputed、method等属性
 # test
 
 > A Vue.js project
